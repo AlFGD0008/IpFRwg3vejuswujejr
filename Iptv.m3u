@@ -1,1 +1,25 @@
-hh
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A31n232q00na1X1SYz3mGgE12t.jpg" group-title="Ciencia Ficción",El Origen (Inception)
+http://mi-servidor.com/videos/el_origen.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8KpgAEP.jpg" group-title="Ciencia Ficción",Interestelar (Interstellar)
+http://mi-servidor.com/videos/interestelar.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zEqjO2n6Tkw8T0T1Dsl95rCjA7u.jpg" group-title="Acción",John Wick 4
+http://un-link-de-ejemplo.com/pelicula_john_wick_4.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eU2hZl3L2GOc1yvGv5p91dJbUW.jpg" group-title="Acción",Misión Imposible: Sentencia Mortal
+http://un-link-de-ejemplo.com/mi7.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A4oM295f2c4z3iFdmA5P0gT73ph.jpg" group-title="Animación",Spider-Man: A través del Spider-Verso
+http://otro-dominio.cl/spiderman_spiderverse.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u3M1bN5wy5BImdJ69Zt6a6s4H38.jpg" group-title="Animación",Super Mario Bros. La Película
+http://otro-dominio.cl/super_mario.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg" group-title="Drama",Oppenheimer
+http://link-falso-para-probar.com/oppenheimer.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y2d2SB1fTB5a9f3Q2A5eE1gskWa.jpg" group-title="Comedia",Barbie
+http://link-falso-para-probar.com/barbie_movie.mp4
